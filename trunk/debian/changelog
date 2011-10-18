@@ -1,0 +1,5 @@
+modbus-tk (0.4.1-1) experimental; urgency=low
+
+  * Initial release
+
+ -- Antonio Parrella <zidagartsk@gmail.com>  Thu, 06 Oct 2011 17:55:23 +0200

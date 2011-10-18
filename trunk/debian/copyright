@@ -1,0 +1,41 @@
+This work was packaged for Debian by:
+
+    Antonio Parrella <zidagartsk@gmail.com> on Thu, 06 Oct 2011 17:55:23 +0200
+
+It was downloaded from:
+
+    <http://code.google.com/p/modbus-tk/>
+
+Upstream Author(s):
+
+    <Luc Jean - luc.jean@gmail.com>
+
+Copyright:
+
+    <Copyright (C)2009 Luc Jean - luc.jean@gmail.com>
+    <Copyright (C)2009 Apidev - http://www.apidev.fr>
+
+License:
+
+    This package is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Lesser General Public
+    License as published by the Free Software Foundation; either
+    version 3 of the License, or (at your option) any later version.
+
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    Lesser General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+On Debian systems, the complete text of the GNU Lesser General
+Public License can be found in "/usr/share/common-licenses/LGPL-3".
+
+The Debian packaging is:
+
+    Copyright (C) 2011 Antonio Parrella <zidagartsk@gmail.com>
+
+and is licensed under the GPL version 3,
+see "/usr/share/common-licenses/GPL-3".
