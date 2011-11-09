@@ -10,10 +10,15 @@ Package: python-modbus-tk
 Architecture: all
 Depends: ${misc:Depends}, ${python:Depends}, python-kinterbasdb
 Provides: ${python:Provides}
-Description: Implementation of modbus protocol in python
+Description: implementation of modbus protocol in python
  Modbus Test Kit provides implementation of slave and master
  for Modbus TCP and RTU.
  The main goal is to be used as testing tools.
+ It can also be used to create any application which need to communicate
+ over modbus.
+ It is a full-stack implementation and is used on "real applications".
+ .
+ This package provide all necessary libraries.
 
 
 Package: python-modbus-tk-doc
@@ -21,6 +26,12 @@ Priority: optional
 Architecture: all
 Section: doc
 Depends: ${misc:Depends}
-Description: Modbus Test Kit documentation
- This package provide html documentation API and
- some examples
+Description: modbus Test Kit documentation
+ Modbus Test Kit provides implementation of slave and master
+ for Modbus TCP and RTU.
+ The main goal is to be used as testing tools.
+ It can also be used to create any application which need to communicate
+ over modbus.
+ It is a full-stack implementation and is used on "real applications".
+ .
+ This package provide html documentation API and some examples.
