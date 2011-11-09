@@ -1,0 +1,3 @@
+version=3
+http://googlecode.debian.net/p/modbus-tk \
+  /p/modbus-tk/modbus-tk-([0-9\.]+)\.zip
