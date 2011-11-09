@@ -1,14 +1,13 @@
 Source: modbus-tk
-Priority: extra
+Priority: optional
 Maintainer: Antonio Parrella <zidagartsk@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~), python (>= 2.6.6-3~), python-setuptools
 Section: python
-Standards-Version: 3.9.1
+Standards-Version: 3.9.2
 Homepage: http://code.google.com/p/modbus-tk/
 
 Package: python-modbus-tk
-Section: python
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}, ${python:Depends}, python-kinterbasdb
 Provides: ${python:Provides}
 Description: Implementation of modbus protocol in python
